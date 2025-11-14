@@ -1,1 +1,1 @@
-Official Site Repo of 2025 ABCD-ReproNim Hackathon. 
+Official Site Repo of 2026 ABCD-ReproNim Hackathon. 
